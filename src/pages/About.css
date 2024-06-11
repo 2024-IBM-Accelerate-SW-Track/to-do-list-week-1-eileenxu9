@@ -10,7 +10,7 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color: #f7e8fb;
 }
 
 .right {
@@ -30,10 +30,12 @@
   color: black;
   text-align: left;
   padding-bottom: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .brief_description {
   text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .profile_image {
